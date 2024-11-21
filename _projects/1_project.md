@@ -4,7 +4,7 @@ title: JEDI meeting 2025
 description: first post COVID19 meeting
 img: assets/img/JEDImeeting2025/chateaudufey.jpg
 importance: 1
-category: work
+category: future
 related_publications: true
 ---
 
