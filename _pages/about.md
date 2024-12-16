@@ -15,10 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<h3> Who are the JEDIs</h3>
+<p><h3> Who are the JEDIs</h3>
 The JEDIs are early career scientists working on Drosophila melanogaster in Europe and having recently established their independent research group. 
 
-<h3> Can I become a JEDI?</h3>
+<p><h3> Can I become a JEDI?</h3>
 You don’t become a JEDI. You are born JEDI. Just kidding. 
 If you run your own laboratory and call yourself a fly person you are welcome to join. The club is open to researchers who are at early stages of their independent careers, possibly in a pre-tenure phase. 
 
