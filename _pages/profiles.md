@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: The 2025 organization commitee 
+description: trying to give you the best experience for building lasting networks
 nav: true
 nav_order: 7
 

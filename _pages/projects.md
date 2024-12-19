@@ -1,8 +1,8 @@
 ---
 layout: page
-title: JEDI meetings
+title: meetings
 permalink: /projects/
-description: former, present and future IRL meetings
+description: former, present and future IRL JEDI meetings
 nav: true
 nav_order: 3
 display_categories: [future, past]
