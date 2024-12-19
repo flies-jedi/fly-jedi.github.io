@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: The 2025 organization commitee 
+title: people 
 description: trying to give you the best experience for building lasting networks
 nav: true
 nav_order: 7
@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: JEDImeeting2025/organizers/g_linneweber.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
