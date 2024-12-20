@@ -11,8 +11,8 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: JEDImeeting2025/organizers/g_linneweber.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about_g_linneweber.md
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
