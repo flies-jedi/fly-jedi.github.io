@@ -8,7 +8,7 @@ category: future
 related_publications: false
 ---
 
-You will be able to register here starting mid-december https://flyjedi.sciencesconf.org/ 
+You will be able to register here starting mid-december <a href="https://flyjedi.sciencesconf.org/" target="_blank">here</a>.
 
 We decided to organize that first post COVID IRL JEDI meeting at the <a href = "https://chateaudufey.com/">Château du Feÿ</a> from June 3 to 5, 2025.
 
