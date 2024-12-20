@@ -26,7 +26,6 @@ profiles:
     more_info: >
       <p>D Hadjieconomou</p>
       <p>Paris Brain Institute</p>
-      <p></p>
   - align: right
     image: JEDImeeting2025/organizers/g_kolahgar.jpg
     content: about_einstein.md
